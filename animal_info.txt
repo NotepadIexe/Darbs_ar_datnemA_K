@@ -1,0 +1,30 @@
+Lion - Panthera leo - A large social cat known for living in prides and for the male's mane.
+Tiger - Panthera tigris - A powerful striped cat that usually lives alone and is an excellent swimmer.
+African elephant - Loxodonta africana - The largest living land animal, with large ears, a trunk, and tusks.
+Giraffe - Giraffa camelopardalis - A very tall African mammal with a long neck and legs, adapted for browsing treetops.
+Zebra - Equus quagga - An African grazing mammal recognizable by its distinctive black-and-white stripes.
+Gray wolf - Canis lupus - A social wild canine that lives and hunts in family groups called packs.
+Red fox - Vulpes vulpes - A small, adaptable canine with a bushy tail and often reddish fur.
+Brown bear - Ursus arctos - A large bear found across parts of North America, Europe, and Asia.
+Giant panda - Ailuropoda melanoleuca - A black-and-white bear that feeds mainly on bamboo.
+Koala - Phascolarctos cinereus - An Australian marsupial that spends much of its time in eucalyptus trees.
+Kangaroo - Macropus giganteus - A hopping Australian marsupial whose young develop in a pouch.
+Emperor penguin - Aptenodytes forsteri - A large Antarctic penguin adapted to cold conditions and deep diving.
+Bald eagle - Haliaeetus leucocephalus - A large North American bird of prey with a white head as an adult.
+Barn owl - Tyto alba - A pale, nocturnal owl known for its heart-shaped facial disk and quiet flight.
+Peregrine falcon - Falco peregrinus - A widespread falcon famous for its high-speed hunting dives.
+Common raven - Corvus corax - A large, intelligent black bird known for problem-solving and varied calls.
+Atlantic salmon - Salmo salar - A fish that migrates between the ocean and freshwater rivers to reproduce.
+Great white shark - Carcharodon carcharias - A large predatory shark found in temperate coastal and offshore waters.
+Clownfish - Amphiprion ocellaris - A small, brightly colored reef fish that lives among sea anemone tentacles.
+Common bottlenose dolphin - Tursiops truncatus - A social marine mammal known for its intelligence and communication.
+Blue whale - Balaenoptera musculus - The largest known animal, feeding mainly on tiny krill.
+Humpback whale - Megaptera novaeangliae - A large whale known for its long migrations and complex songs.
+Sea otter - Enhydra lutris - A marine mammal that uses tools and often floats on its back while feeding.
+Green sea turtle - Chelonia mydas - A marine turtle that eats mostly seagrasses and algae as an adult.
+Common octopus - Octopus vulgaris - A soft-bodied marine animal with eight arms and strong problem-solving abilities.
+Honey bee - Apis mellifera - A social insect that lives in colonies and helps pollinate many flowering plants.
+Monarch butterfly - Danaus plexippus - An orange-and-black butterfly known for its long seasonal migration in parts of North America.
+Emperor dragonfly - Anax imperator - A large flying insect that hunts other insects near freshwater habitats.
+Red fire ant - Solenopsis invicta - A small, colony-forming ant native to South America and invasive in some other regions.
+Common earthworm - Lumbricus terrestris - A soil-dwelling invertebrate that helps mix and aerate soil.
