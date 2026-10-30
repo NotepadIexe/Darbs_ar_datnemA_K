@@ -4,13 +4,13 @@ with open("animal_info.txt", "r", encoding="utf-8") as file:
     z = 0
     for x in text.splitlines():
         z += 1
-    """print(z)"""
+    print(z)
     #c.	Izvadiet dzīvnieku nosaukumus dilstošā alfabētiskā secībā 
     sar = []
     x = 0
     for elem in text.splitlines():
         sar.append(elem.split(" -")[1])
-    sar.sort()
+    sar.sort(reverse=True)
     print(sar)
     #d.	Izvadiet dzīvniekus ar visgarāko latīnisko nosaukumu 
     lenght = 0
