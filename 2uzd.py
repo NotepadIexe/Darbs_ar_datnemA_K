@@ -25,10 +25,8 @@ with open("C:/Users/STUDENTS/Downloads/animal_dataset.csv", "r", encoding="utf-8
     i = 0
     ksar = []
     for elem in qsar:
-        if qsar[i][-3] == "Herbivore": 
-            if qsar[i][-2] == "Low" : 
-                if qsar[i][-1] == "No":
-                    ksar.append(qsar[i][0])
+        if qsar[i][-3] == "Herbivore" and qsar[i][-2] == "Low" and qsar[i][-1] == "No":
+            ksar.append(qsar[i][0])
         i += 1
     print(ksar)
     
