@@ -15,8 +15,20 @@ with open("C:/Users/STUDENTS/Downloads/animal_dataset.csv", "r", encoding="utf-8
     for elem in sar1:
         if elem == dzivnieka_n:
             x += 1
-    print(sar4)
+    print(x)
     #d.	Izvadiet visus dzīvniekus, kuri atbilst visiem šiem parametriem (visi parametri attiecas uz vienu ierakstu.
     i = 0
-    for elem in sar2:
-        if sar2[i] ==
+    qsar = []
+    for x in range(len(sar1)):
+        qsar.append([sar1[i],sar2[i],sar3[i],sar4[i]])
+        i += 1
+    i = 0
+    ksar = []
+    for elem in qsar:
+        if qsar[i][-3] == "Herbivore": 
+            if qsar[i][-2] == "Low" : 
+                if qsar[i][-1] == "No":
+                    ksar.append(qsar[i][0])
+        i += 1
+    print(ksar)
+    
