@@ -17,6 +17,6 @@ with open("C:/Users/STUDENTS/Downloads/animal_dataset.csv", "r", encoding="utf-8
             x += 1
     print(sar4)
     #d.	Izvadiet visus dzīvniekus, kuri atbilst visiem šiem parametriem (visi parametri attiecas uz vienu ierakstu.
-"""    i = 0
+    i = 0
     for elem in sar2:
-        if sar2[i]:"""
+        if sar2[i] ==
