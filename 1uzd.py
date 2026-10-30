@@ -10,7 +10,7 @@ with open("animal_info.txt", "r", encoding="utf-8") as file:
     x = 0
     for elem in text.splitlines():
         sar.append(elem.split(" -", 1)[0])
-    sar.sort()
+    sar.sort(reverse=True)
     print(sar)
     #d.	Izvadiet dzīvniekus ar visgarāko latīnisko nosaukumu 
     lenght = 0
