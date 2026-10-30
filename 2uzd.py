@@ -1,4 +1,4 @@
-with open("C:/Users/STUDENTS/Downloads/animal_dataset.csv", "r", encoding="utf-8") as file:
+with open("animal_dataset.csv", "r", encoding="utf-8") as file:
     text = file.read()
     #c.	Izveidojiet programmu, kas izvada ierakstu skaitu par dzīvnieku, kuru vārds satur lietotāja ievadīto tekstu.
     dzivnieka_n = str(input("Ievadi dzivnieka vardu: "))
