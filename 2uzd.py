@@ -29,4 +29,5 @@ with open("C:/Users/STUDENTS/Downloads/animal_dataset.csv", "r", encoding="utf-8
             ksar.append(qsar[i][0])
         i += 1
     print(ksar)
+    #mans darbs
     
