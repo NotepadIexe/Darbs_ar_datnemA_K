@@ -1,0 +1,28 @@
+Kļūdu nav, jāpiestrādā pies stila
+
++ 1. Repozitorijs ir izveidots ar pareizo nosaukumu
++ 2. Repozitorijam ir pievienots collaborator
++ 3. Ir izveidotrs README.md fails ar pareizo nosaukumu un saturu
++ 4. README.md failā tekstam ir pareizais formatējums (virsraksts, slīpraksts un treknraksts)
++ 5. Saskaitiet par cik dzīvniekiem ir doti dati failā un izvadiet rezultātu
++ 6. Izvadiet dzīvnieku nosaukumus dilstošā alfabētiskā secībā
+
+Jāpiestrādā pie koda stila
+sar.append(elem.split(" -", 1)[0])
+sar1.append(elem.split(" -")[1])
+
++ 7. Izvadiet dzīvniekus ar visgarāko latīnisko nosaukumu
+
+Garums netika prasīts, bet ieskaitīts
+
++ 8. 1.uzd izmaiņas ielikt GitHub repozitorijā ar attiecīgo nosaukumu
++ 9. Izveidojiet jaunu repozitorija zaru “otrais_uzd”, kurā izpildīsiet šo uzdevumu
++ 10. Izveidojiet programmu, kas izvada ierakstu skaitu par dzīvnieku, kuru vārds satur lietotāja ievadīto tekstu
++ 11. Izvadiet visus dzīvniekus, kuri atbilst visiem šiem parametriem
+
+Funkcijā vairākas reizes izmanto elem.split(","), vari saglabāt pagaidu mainīgajā un tas piekļūt [index], lai to meklētu
+Uzlabos programmas ātrdarbību, jo neizsauksi split() komandu vairākas reizes
+
++ 12. 2.uzd izmaiņas ielikt GitHub repozitorijā ar attiecīgo nosaukumu
+
+Kāpēc izmanto apgriestos indexus?
