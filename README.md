@@ -1,3 +1,3 @@
-# **Virsraksts**: “PDasas par teksta apstrādi”
+ALAAAAAAAAAAAAAAAAAAAAH
 **Datums**: *30.10saass.2026*
 **Vārds, uzvārds**: *Armands Kazinieksas*
