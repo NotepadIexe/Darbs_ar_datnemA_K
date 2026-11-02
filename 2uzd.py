@@ -8,10 +8,11 @@ with open("animal_dataset.csv", "r", encoding="utf-8") as file:
     sar4 = [] #Nocturnal
     x = 0
     for elem in text.splitlines():
-        sar1.append(elem.split(",")[1])
-        sar2.append(elem.split(",")[5])
-        sar3.append(elem.split(",")[-2])
-        sar4.append(elem.split(",")[-4])
+        c = elem.split(",")
+        sar1.append(c[1])
+        sar2.append(c[5])
+        sar3.append(c[-2])
+        sar4.append(c[-4])
     for elem in sar1:
         if elem == dzivnieka_n:
             x += 1
@@ -25,7 +26,7 @@ with open("animal_dataset.csv", "r", encoding="utf-8") as file:
     i = 0
     ksar = []
     for elem in qsar:
-        if qsar[i][-3] == "Herbivore" and qsar[i][-2] == "Low" and qsar[i][-1] == "No":
+        if qsar[i][0] == "Herbivore" and qsar[i][1] == "Low" and qsar[i][2] == "No":
             ksar.append(qsar[i][0])
         i += 1
     print(ksar)
